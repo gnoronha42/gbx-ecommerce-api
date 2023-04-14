@@ -1,0 +1,22 @@
+{
+  "name": "gbx-ecommerce-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnoronha42/gbx-ecommerce-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnoronha42/gbx-ecommerce-api/issues"
+  },
+  "homepage": "https://github.com/gnoronha42/gbx-ecommerce-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
